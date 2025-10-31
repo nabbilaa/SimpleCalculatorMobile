@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="number_1">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+    <string name="move_to_move_activity">Move to Move Activity</string>
+    <string name="mulai_kalkulator">Start Calculator</string>"
+</resources>
