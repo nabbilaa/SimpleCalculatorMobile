@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         btnGoToCalculator = findViewById(R.id.btn_start);
 
         btnGoToCalculator.setOnClickListener(new View.OnClickListener() {
+
             @Override
             public void onClick(View v) {
                 Intent moveIntent = new Intent(MainActivity.this, MoveActivity.class);
